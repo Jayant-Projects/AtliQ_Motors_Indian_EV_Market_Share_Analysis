@@ -16,13 +16,20 @@ As a data analyst in the team, I was responsible for conducting a comprehensive 
 4. Recommend strategies to boost AtliQ's market presence and identify potential manufacturing locations.
 
 ### **Action**
-1. **Data Analysis**: Collected, cleaned, and analyzed over 100,000 data points using Python, SQL, and Power BI to answer key business questions. This included sales data, state-wise penetration rates, and quarterly trends of top EV makers from 2022 to 2024.
+1. **Data Analysis**: Collected, cleaned, and analyzed over 100,000 data points using Power BI to answer key business questions. This included sales data, state-wise penetration rates, and quarterly trends of top EV makers from 2022 to 2024.
    
 2. **Trend and Correlation Analysis**: Identified the top 5 states by EV penetration rates and analyzed the impact of infrastructure (charging stations) and government subsidies on EV adoption. I also projected future sales based on the Compound Annual Growth Rate (CAGR) for 2030.
 
 3. **Dashboard Design**: Created a Power BI dashboard to visualize key metrics, making it easy for stakeholders to understand trends, market potential, and AtliQ’s competitive positioning. The dashboard highlighted states with high potential for AtliQ's EV sales and recommended locations for manufacturing based on incentives, infrastructure, and ease of doing business.
 
 4. **Recommendations**: Based on the analysis, I recommended Gujarat as the ideal location for establishing AtliQ’s manufacturing unit due to its high ease of doing business, strong subsidies, and existing infrastructure. Additionally, I suggested collaborating with Virat Kohli as a brand ambassador to appeal to urban youth markets.
+
+![Screenshot 2024-10-03 140055](https://github.com/user-attachments/assets/5db8c30e-46d8-4640-b57a-87dc02aa070a)
+![Screenshot 2024-10-03 135954](https://github.com/user-attachments/assets/deb45ad4-1bee-4a33-901a-a691006603b2)
+![Screenshot 2024-10-03 135856](https://github.com/user-attachments/assets/6f2266da-c4f5-4bf6-9136-9df80fab026f)
+![Screenshot 2024-10-03 135759](https://github.com/user-attachments/assets/80a31b57-dc97-4c8a-be7c-d4a1c65d634e)
+![Screenshot 2024-10-03 135603](https://github.com/user-attachments/assets/91b6d4f1-4da7-467a-ac61-58dfaa0d3ed3)
+
 
 ### **Result**
 - **Identified key growth opportunities** for AtliQ Motors to expand its market share from 2% to a potential **10% in India**.
