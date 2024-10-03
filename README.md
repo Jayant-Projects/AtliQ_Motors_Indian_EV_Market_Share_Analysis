@@ -26,7 +26,7 @@ As a data analyst in the team, I was responsible for conducting a comprehensive 
 
 ### **Result**
 - **Identified key growth opportunities** for AtliQ Motors to expand its market share from 2% to a potential **10% in India**.
-- The dashboard provided actionable insights on government policies, infrastructure, and consumer behavior, facilitating strategic decision-making.
+- The dashboard provided actionable insights on government policies, infrastructure, and consumer behaviour, facilitating strategic decision-making.
 - Suggested a **20% potential sales increase** in high-penetration states by leveraging charging infrastructure and subsidies.
 - Presented findings to Bruce Haryali, resulting in the decision to pursue manufacturing in Gujarat and proceed with a targeted marketing campaign.
 
@@ -39,9 +39,9 @@ As a data analyst in the team, I was responsible for conducting a comprehensive 
    
 3. **Charging Infrastructure Correlation**: States with more developed charging networks experienced **200%+ growth in EV penetration**.
 
-#Secondary Analysis Questions
+# Secondary Analysis Questions
 
-##1. What are the primary reasons for customers choosing 4-wheeler EVs in 2023 and 2024 (cost savings, environmental concerns, government incentives)? 
+## 1. What are the primary reasons for customers choosing 4-wheeler EVs in 2023 and 2024 (cost savings, environmental concerns, government incentives)? 
 
 Here are the primary reasons customers in India are choosing 4-wheeler electric vehicles (EVs) in 2023 and 2024, supported by India-specific data:
 
@@ -63,7 +63,7 @@ Here are the primary reasons customers in India are choosing 4-wheeler electric 
 
 These factors, supported by government initiatives and technological improvements, are contributing to the rapid adoption of EVs in India in 2023 and 2024.
 
-##2. How do government incentives and subsidies impact the adoption rates of 2-wheelers and 4-wheelers? Which states in India provided the most subsidies? 
+## 2. How do government incentives and subsidies impact the adoption rates of 2-wheelers and 4-wheelers? Which states in India provided the most subsidies? 
 
 
 Government incentives and subsidies play a pivotal role in accelerating the adoption of electric vehicles (EVs) in India, particularly for both 2-wheelers and 4-wheelers. These measures come in various forms, such as direct financial subsidies, tax exemptions, rebates, and policy support.
@@ -98,7 +98,7 @@ States like **Delhi, Maharashtra, Gujarat, and Tamil Nadu** lead in offering the
 ### Conclusion
 Government incentives in India, from direct subsidies under **FAME II** to state-specific tax benefits and infrastructure development, have significantly boosted EV adoption. By reducing upfront costs, improving TCO, and supporting the growth of EV infrastructure, these measures are driving the shift toward electric mobility across both 2 and 4-wheeler segments.
 
-##3. How does charging station infrastructure's availability correlate with the EV sales and penetration rates in the top 5 states?
+## 3. How does charging station infrastructure's availability correlate with the EV sales and penetration rates in the top 5 states?
 Here’s a quantified correlation between charging station infrastructure and EV sales/penetration rates in the top 5 states in India:
 
 ### 1. **Delhi**:
@@ -124,7 +124,7 @@ Here’s a quantified correlation between charging station infrastructure and EV
 ### Conclusion:
 States with stronger charging infrastructure, like Delhi and Maharashtra, are seeing exponential growth in EV sales, with infrastructure expansion directly supporting penetration rates of **10% or more**. The clear correlation shows that as the number of charging stations increases, EV adoption accelerates, particularly in states with well-developed urban and highway charging networks.
 
-##4. Who should be the brand ambassador if AtliQ Motors launches their EV/Hybrid vehicles in India and why?
+## 4. Who should be the brand ambassador if AtliQ Motors launches their EV/Hybrid vehicles in India and why?
 
 
 Here are potential brand ambassadors for AtliQ Motors' EV/Hybrid vehicle launch in India, based on quantifiable influence and market impact:
@@ -152,7 +152,7 @@ Here are potential brand ambassadors for AtliQ Motors' EV/Hybrid vehicle launch 
 Virat Kohli would be the strongest choice due to his massive social media following and appeal to young, urban audiences—the prime market for EVs. Akshay Kumar or PV Sindhu would be excellent alternatives, each bringing unique value in terms of national appeal and sustainability advocacy.
 	
 	
-##5.  Which state of India is ideal to start the manufacturing unit? (Based on subsidies provided, ease of doing business, stability in governance etc.)
+## 5.  Which state of India is ideal to start the manufacturing unit? (Based on subsidies provided, ease of doing business, stability in governance etc.)
 
 
 Here are the top Indian states ideal for starting a manufacturing unit for AtliQ Motors based on subsidies, ease of doing business, and governance stability:
@@ -186,7 +186,7 @@ Here are the top Indian states ideal for starting a manufacturing unit for AtliQ
 ### Conclusion:
 **Gujarat** is the ideal state due to its top ranking in ease of doing business, strong subsidies, robust infrastructure, and stable governance. **Maharashtra** and **Tamil Nadu** are also excellent alternatives due to their strong industrial ecosystems and generous incentives for EV manufacturing.
 
-##6. Your top 3 recommendations for AtliQ Motors
+## 6. Your top 3 recommendations for AtliQ Motors
 
 
 Here are my top 3 recommendations for **AtliQ Motors** to successfully launch and grow in the Indian EV market:
