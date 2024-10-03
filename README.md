@@ -24,11 +24,13 @@ As a data analyst in the team, I was responsible for conducting a comprehensive 
 
 4. **Recommendations**: Based on the analysis, I recommended Gujarat as the ideal location for establishing AtliQ’s manufacturing unit due to its high ease of doing business, strong subsidies, and existing infrastructure. Additionally, I suggested collaborating with Virat Kohli as a brand ambassador to appeal to urban youth markets.
 
-![Screenshot 2024-10-03 140055](https://github.com/user-attachments/assets/5db8c30e-46d8-4640-b57a-87dc02aa070a)
-![Screenshot 2024-10-03 135954](https://github.com/user-attachments/assets/deb45ad4-1bee-4a33-901a-a691006603b2)
-![Screenshot 2024-10-03 135856](https://github.com/user-attachments/assets/6f2266da-c4f5-4bf6-9136-9df80fab026f)
-![Screenshot 2024-10-03 135759](https://github.com/user-attachments/assets/80a31b57-dc97-4c8a-be7c-d4a1c65d634e)
-![Screenshot 2024-10-03 135603](https://github.com/user-attachments/assets/91b6d4f1-4da7-467a-ac61-58dfaa0d3ed3)
+![1](https://github.com/user-attachments/assets/3139cc97-ca19-4b66-8a4a-2f4c9d6c4da9)
+![2](https://github.com/user-attachments/assets/88de0daf-9d04-49ce-bbc4-bea2af0f1618)
+![3](https://github.com/user-attachments/assets/2f0b3676-ca4e-4c35-bcaa-ea5c1efd7f9b)
+![4](https://github.com/user-attachments/assets/b3c1ec41-bae6-4936-bad6-3788cce3bdf0)
+![5](https://github.com/user-attachments/assets/96c5fe39-7ad9-42c3-b4ba-dec95d689263)
+
+
 
 
 ### **Result**
