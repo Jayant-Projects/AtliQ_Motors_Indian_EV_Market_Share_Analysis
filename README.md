@@ -1,5 +1,9 @@
 # AtliQ_Motors_Indian_EV_Market_Share_Analysis
 
+![AtliQ Motors](https://github.com/user-attachments/assets/1ba4e98f-53af-406e-ae87-53785a07bfc2)
+
+### Live Dashboard: [Link](https://mavenanalytics.io/project/20266)
+
 ## Project Overview
 
 AtliQ Motors, a USA-based electric vehicle (EV) manufacturer, holds a 25% market share in the North American EV/Hybrid market. As part of its global expansion strategy, the company sought to enter the Indian EV market, where its market share is currently less than 2%. To make data-driven decisions and gain market insights, Bruce Haryali, the head of AtliQ Motors India, tasked the data analytics team with a comprehensive market analysis. As part of the team, I (assuming the role of Peter Pandey) analyzed the market data and delivered actionable insights to inform AtliQ's market entry and growth strategy in India.
